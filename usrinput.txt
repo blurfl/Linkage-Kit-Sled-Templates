@@ -1,1 +1,1 @@
-Linkage Kit Sled Templates~Sled templates including the mounting holes for the different linkage kits~communityManaged~MeticulousMaynard
+PowerControl TLE5206 board~Version of the PowerControl board using the TLE5206 chip~communityManaged~blurfl
